@@ -1,1 +1,2 @@
 im nurul fikri student
+from depok
